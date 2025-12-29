@@ -59,13 +59,13 @@ Each dashboard demonstrates practical skills in:
 
 ---
 
-## 🎓 Programme Context
+## Programme Context
 MSc Data Science & Analytics (Advanced Practice)  
 Teesside University — London Campus
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kweku-koomson-428902319/  
 - Email: koomsonkweku5@gmail.com
 
